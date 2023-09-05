@@ -1,0 +1,8 @@
+{
+    "mithrilEmmet.outputDefaultTagName": true,
+    "emmet.includeLanguages": {
+        "html": "html",
+        "javascript": "javascript",
+        "jsx": "javascriptreact"
+    }
+}
